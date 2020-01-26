@@ -9,8 +9,8 @@
 # Check API for most recent year available
 include key.ini
 
-YEAR = 2016
-CONGRESS = 115
+YEAR = 2019
+CONGRESS = 116
 
 include counties/$(YEAR).ini
 
